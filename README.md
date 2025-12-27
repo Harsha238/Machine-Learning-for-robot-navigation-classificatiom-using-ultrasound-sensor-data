@@ -1,9 +1,9 @@
 # Machine-Learning-for-robot-navigation-classificatiom-using-ultrasound-sensor-data
-🤖 Machine Learning for Robot Navigation (Ultrasonic Sensors)
+🤖 MACHINE LEARNING FOR ROBOT NAVIGATION
 
 This project uses machine learning and ultrasonic sensor data to classify robot movements such as forward, left, right, and stop for safe navigation.
 
-🔹 Key Features
+🔹 KEY FEATURES
 
 Ultrasonic sensor–based obstacle detection
 
@@ -13,14 +13,14 @@ ML-based movement classification
 
 Reduces collision and improves autonomy
 
-🛠 Technologies Used
+🛠 TECH USED
 
 Python • Machine Learning • Ultrasonic Sensors • NumPy • Scikit-learn
 
-📊 Workflow
+📊 WORKFLOW
 
 Sensor Data → Preprocessing → ML Model → Navigation Decision
 
-🚀 Applications
+🚀 APPLICATIONS
 
 Autonomous robots, obstacle avoidance, smart navigation systems
