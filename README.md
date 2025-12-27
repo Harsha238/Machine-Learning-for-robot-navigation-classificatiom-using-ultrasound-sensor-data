@@ -6,8 +6,11 @@ This project uses machine learning and ultrasonic sensor data to classify robot 
 🔹 Key Features
 
 Ultrasonic sensor–based obstacle detection
+
 ML-based movement classification
+
 ~92% accuracy in navigation decisions
+
 Reduces collision and improves autonomy
 
 🛠 Technologies Used
